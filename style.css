@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
 body {
+	font-family: "Ubuntu Sans Mono";
 	text-align: center;
 	color: #DBDBDB;
 	background-color: #404040;
